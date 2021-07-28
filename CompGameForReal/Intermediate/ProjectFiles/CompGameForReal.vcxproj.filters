@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CompGameForReal.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6CDE126B-3F0C-4BAF-8506-90FB8CB8EFB9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CompGameForReal.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CompGameForRealEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2D5D3FC4-BD14-4268-8140-62495239D194}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CompGameForReal">
+      <UniqueIdentifier>{7D617E1A-88D8-486E-9B95-4FA8A6E56557}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CompGameForReal\CompGameForReal.Build.cs">
+      <Filter>Source\CompGameForReal</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CompGameForReal\CompGameForReal.cpp">
+      <Filter>Source\CompGameForReal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CompGameForReal\CompGameForReal.h">
+      <Filter>Source\CompGameForReal</Filter>
+    </ClInclude>
+    <Filter Include="Source\CompGameForReal\Private">
+      <UniqueIdentifier>{BEAAEDEB-4747-471C-B928-4E15D3F0D4B4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CompGameForReal\Private\SUPEREPICCPPCLASSTHATDOESALOT.cpp">
+      <Filter>Source\CompGameForReal\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\CompGameForReal\Public">
+      <UniqueIdentifier>{03F1B192-1671-4D8D-A79B-DCE0E994C2F1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CompGameForReal\Public\SUPEREPICCPPCLASSTHATDOESALOT.h">
+      <Filter>Source\CompGameForReal\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

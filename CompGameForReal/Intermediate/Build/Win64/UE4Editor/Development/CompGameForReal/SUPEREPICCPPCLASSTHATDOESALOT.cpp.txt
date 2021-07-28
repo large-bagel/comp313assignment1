@@ -1,0 +1,2 @@
+C:\uniCdrive\CompGamereplacement1\CompGameForReal\Intermediate\Build\Win64\UE4Editor\Development\CompGameForReal\Definitions.CompGameForReal.h
+C:\uniCdrive\CompGamereplacement1\CompGameForReal\Source\CompGameForReal\Public\SUPEREPICCPPCLASSTHATDOESALOT.h

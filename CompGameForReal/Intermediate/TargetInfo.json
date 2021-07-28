@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CompGameForReal",
+			"Path": "C:\\uniCdrive\\CompGamereplacement1\\CompGameForReal\\Source\\CompGameForReal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CompGameForRealEditor",
+			"Path": "C:\\uniCdrive\\CompGamereplacement1\\CompGameForReal\\Source\\CompGameForRealEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

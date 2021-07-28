@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CompGameForReal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\uniCdrive\CompGamereplacement1\CompGameForReal\Intermediate\Build\Win64\CompGameForRealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\uniCdrive\CompGamereplacement1\CompGameForReal\Intermediate\Build\Win64\UE4Editor\Development\CompGameForReal\SUPEREPICCPPCLASSTHATDOESALOT.cpp.obj"
+"C:\uniCdrive\CompGamereplacement1\CompGameForReal\Intermediate\Build\Win64\UE4Editor\Development\CompGameForReal\CompGameForReal.cpp.obj"
+"C:\uniCdrive\CompGamereplacement1\CompGameForReal\Intermediate\Build\Win64\UE4Editor\Development\CompGameForReal\Default.rc2.res"
+/OUT:"C:\uniCdrive\CompGamereplacement1\CompGameForReal\Intermediate\Build\Win64\UE4Editor\Development\CompGameForReal\UE4Editor-CompGameForReal.lib"
+/INCLUDE:IMPLEMENT_MODULE_CompGameForReal
